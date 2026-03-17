@@ -1,0 +1,5 @@
+{
+	"name": "Cosmic Planner Hub",
+	"description": "A beautifully designed planner application featuring a pastel color scheme with light and dark mode support, built with React and Tailwind CSS.",
+	"requestFramePermissions": []
+}
